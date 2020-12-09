@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Niyuq
 
-You can use the [editor on GitHub](https://github.com/dmaulikr/Niyuq/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Niyuq is unique applications for people who wants easy appointments.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Niyuq is unique applications for doctor appointment booking that gets real-time live status of the queue and get updates on your turn.
 
-### Markdown
+### Privacy Policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmaulikr/Niyuq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Do check our [privacy policy](http://niyuq.com/content/privacy%20policy.txt).
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Niyuq? [mail](niyuq20@gmail.com) us and we’ll help you sort it out.
